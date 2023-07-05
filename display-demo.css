@@ -1,0 +1,20 @@
+.display-inline
+{  
+    height: 200px;
+    width: 300px;
+}
+
+p{
+   font-weight: bold;
+}
+
+.display-block
+{   
+    height: 200px;
+    width: 300px;
+}
+
+.display-none
+{
+  
+}
